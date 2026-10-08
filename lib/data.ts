@@ -26,7 +26,7 @@ export const stats = [
 ];
 
 export const aboutText =
-  "Versatile professional with practical experience in IT operations, travel and ticketing systems, inventory management, and data handling. Experienced in working with POS and inventory systems, Sabre Interact, airline B2B portals, system operations, and basic IT support. Also completed a MERN Stack development internship, with exposure to modern web development and programming.";
+  "Versatile professional with practical experience in IT operations, travel and ticketing systems, inventory management, and data handling. Experienced in working with POS and inventory systems, Sabre Interact, airline B2B portals, system operations, and basic IT support. Also completed a MERN Stack development internship, with exposure to modern web development and programming. Comfortable working with operational systems, digital records, and day-to-day technical tasks.";
 
 export const skills = [
   { name: "IT & Systems Operations", icon: LuMonitor },
@@ -36,8 +36,8 @@ export const skills = [
   { name: "Inventory & POS Systems", icon: LuDatabase },
   { name: "Data Entry & Microsoft Excel", icon: LuDatabase },
   { name: "IT Hardware Troubleshooting", icon: LuWrench },
-  { name: "Network Troubleshooting", icon: LuNetwork },
-  { name: "Web Development (MERN)", icon: LuCode },
+  { name: "Basic Network Troubleshooting", icon: LuNetwork },
+  { name: "Web Development", icon: LuCode },
   { name: "JavaScript / MERN Stack", icon: LuCode },
 ];
 
@@ -45,7 +45,7 @@ export const experience = [
   {
     company: "Brilliant Travel",
     role: "Ticketing & Systems Operator",
-    period: "July 2024 - Present",
+    period: "July 2026 - Present",
     points: [
       "Processed flight reservations, PNRs, fare pricing, voids, and reissues.",
       "Worked with Sabre Interact and GDS-based ticketing workflows.",
@@ -57,7 +57,7 @@ export const experience = [
   {
     company: "One Stop Grocery",
     role: "IT & Systems Operator",
-    period: "2023 - 2024",
+    period: "2025 - 2026",
     points: [
       "Managed daily POS and inventory system entries.",
       "Updated stock records and assisted with inventory reconciliation.",
@@ -69,7 +69,7 @@ export const experience = [
   {
     company: "Ezitech Institute",
     role: "MERN Stack Intern",
-    period: "2023 (3 Months)",
+    period: "2025 (3 Months)",
     points: [
       "Gained practical experience with MERN Stack web development.",
       "Worked with JavaScript and modern web development concepts.",
